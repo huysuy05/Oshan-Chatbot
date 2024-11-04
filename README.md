@@ -15,7 +15,7 @@ To run locally:
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit openai
    ```
 3. Start the app:
    ```bash
